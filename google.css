@@ -1,0 +1,49 @@
+.logo {
+    display: block;
+    text-align: -webkit-center;  
+    margin-top: 0;
+    
+}
+
+.searcharea{
+    background-color: #E8E8E8;
+    margin-right: 95px;
+    margin-left: 95px;
+    width: 90%;
+}
+
+.center{
+    text-align: center;
+}
+
+.container{
+    margin-left: 95px;
+    margin-right: 95px;
+    width: 90%;
+    align-items: center;
+}
+
+.content {
+    background-color: #E8E8E8;
+    column-span: 3;
+    align-items: center;
+}
+
+.firstbox {
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+.secondbox{
+    background-color: rgb(112, 204, 194);
+    display: table-cell;
+    vertical-align: inherit;
+}
+.thirdbox{
+    text-align: center;
+    background-color: rgb(98, 179, 170);
+    display: table-cell;
+    vertical-align: inherit;
+}
